@@ -9,7 +9,7 @@
   "author": "",
   "license": "GPL-3",
   "dependencies": {
-    "circom": "0.5.23",
+    "circom": "0.5.26",
     "circomlib": "0.2.4"
   }
 }
